@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "dictionaryUI"
+    }
+  },
+  "defaultProject": "dictionaryUI",
+  "cli": {
+    "analytics": "756c2a29-a575-4941-b8c5-fb721df0cfb1"
+  }
 }
